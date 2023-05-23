@@ -1,2 +1,2 @@
-console.log("papel metalizado");
+console.log("papel amarillo");
 console.log("papel azul");
