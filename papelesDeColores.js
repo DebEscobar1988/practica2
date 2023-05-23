@@ -1,1 +1,1 @@
-console.log("papel rojo");
+console.log("papel verde");
