@@ -1,1 +1,1 @@
-console.log("hay dos espejos")
+console.log("hay dos lamparas")
